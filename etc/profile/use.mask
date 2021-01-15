@@ -1,0 +1,6 @@
+# unmask mmal for RPi
+-mmal
+# other unmasks
+-bs2b
+-ieee1394
+-vdpau
